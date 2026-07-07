@@ -1,0 +1,123 @@
+title:铁旗
+description:邪冬的谎言，前进之道，陈旧的尖顶，睿智责难，克瑞米尔之匕，冈诺拉之斧，雷古斯克之誓，多机系统CCX，有限冲击器，未竟之终，牡鹿之角，熊啸，增压精准，致命丰裕
+
+// Felwinter's Lie - 邪冬的谎言 (pvp)
+//notes: tags:pvp
+dimwishlist:item=218787950&perks=191144788,1370847713
+dimwishlist:item=218787950&perks=191144788,3315935575
+
+
+// Gunnora's Axe - 冈诺拉之斧 (pvp)
+//notes: tags:pvp
+dimwishlist:item=218787951&perks=2717805783,1370847713
+dimwishlist:item=218787951&perks=2717805783,3315935575
+dimwishlist:item=218787951&perks=494941759,1370847713
+dimwishlist:item=218787951&perks=494941759,3315935575
+
+
+// Pressurized Precision - 增压精准 (pvp)
+//notes: tags:pvp
+dimwishlist:item=293709640&perks=3920370755,2002547233
+dimwishlist:item=293709640&perks=3920370755,509594246
+dimwishlist:item=293709640&perks=3528046508,2002547233
+dimwishlist:item=293709640&perks=3528046508,509594246
+
+
+// The Wizened Rebuke - 睿智责难 (pvp)
+//notes: tags:pvp
+dimwishlist:item=293709641&perks=3097973565,828056542
+dimwishlist:item=293709641&perks=3097973565,617966211
+
+
+// Point of the Stag - 牡鹿之角 (pvp)
+//notes: tags:pvp
+dimwishlist:item=911019136&perks=3974407819,3418165135
+dimwishlist:item=911019136&perks=509594246,3418165135
+
+
+// Point of the Stag - 牡鹿之角 ()
+dimwishlist:item=911019136&perks=169755979,1720528630
+
+
+// Crimil's Dagger - 克瑞米尔之匕 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1617917863&perks=2396422520,332733060
+dimwishlist:item=1617917863&perks=2396422520,2889515627
+dimwishlist:item=1617917863&perks=191144788,332733060
+dimwishlist:item=1617917863&perks=191144788,2889515627
+
+
+// The Forward Path - 前进之道 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1884897338&perks=848860060,1523649716
+dimwishlist:item=1884897338&perks=3060983774,1523649716
+
+
+// Lethal Abundance - 致命丰裕 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1884897339&perks=3060983774,2939589096
+dimwishlist:item=1884897339&perks=3060983774,956288240
+dimwishlist:item=1884897339&perks=3198323828,2939589096
+dimwishlist:item=1884897339&perks=3198323828,956288240
+
+
+// Finite Impactor - 有限冲击器 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1917334929&perks=3097973565,3315935575
+
+
+// Finite Impactor - 有限冲击器 (pve)
+//notes: tags:pve
+dimwishlist:item=1917334929&perks=4223976499,3581929919
+
+
+// Finite Impactor - 有限冲击器 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1917334929&perks=2396422520,332733060
+
+
+// The Time-Worn Spire - 陈旧的尖顶 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2204165992&perks=1748774930,4045335048
+
+
+// The Time-Worn Spire - 陈旧的尖顶 (pve)
+//notes: tags:pve
+dimwishlist:item=2204165992&perks=4245865861,3609952942
+dimwishlist:item=2204165992&perks=4245865861,288411554
+
+
+// Reghusk's Pledge - 雷古斯克之誓 (pve)
+//notes: tags:pve
+dimwishlist:item=2370525224&perks=1926441324,2541826827
+dimwishlist:item=2370525224&perks=1926441324,984655331
+
+
+// Reghusk's Pledge - 雷古斯克之誓 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2370525224&perks=3060983774,2939589096
+
+
+// Roar of the Bear - 熊啸 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2881109029&perks=406461158,2675184851
+dimwishlist:item=2881109029&perks=406461158,2091001077
+dimwishlist:item=2881109029&perks=406461158,3418165135
+
+
+// Multimach CCX - 多机系统CCX (pve)
+//notes: tags:pve
+dimwishlist:item=3026836571&perks=984655331,1549370717
+
+
+// Multimach CCX - 多机系统CCX (pvp)
+//notes: tags:pvp
+dimwishlist:item=3026836571&perks=2717805783,2939589096
+dimwishlist:item=3026836571&perks=509594246,2939589096
+
+
+// Occluded Finality - 未竟之终 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3104013318&perks=4116820839,1370847713
+
+

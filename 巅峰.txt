@@ -1,0 +1,176 @@
+title:巅峰
+description:驱逐引擎，叫啥来着，拯救者的喝彩，零镇静，崇拜，完美逆行，回文，食莲者，急锋，死从天降，热血上头
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=42435996&perks=1563455254,3744057135
+dimwishlist:item=42435996&perks=1563455254,496047945
+
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=42435996&perks=2817499044,3744057135
+
+
+// Whatchamacallit - 叫啥来着 (pve)
+//notes: tags:pve
+dimwishlist:item=149110926&perks=1771736209,4065965131
+dimwishlist:item=149110926&perks=4045335048,4065965131
+dimwishlist:item=149110926&perks=2133978453,4065965131
+
+
+// The Slammer - 急锋 (pve)
+//notes: tags:pve
+dimwishlist:item=189854537&perks=1618208178,405677814
+
+
+// Whatchamacallit - 叫啥来着 ()
+dimwishlist:item=357669417&perks=1771736209,4065965131
+dimwishlist:item=357669417&perks=4045335048,4065965131
+dimwishlist:item=357669417&perks=2133978453,4065965131
+
+
+// The Palindrome - 回文 (pve)
+//notes: tags:pve
+dimwishlist:item=739029152&perks=64866129,2633604463
+dimwishlist:item=739029152&perks=64866129,3042219245
+dimwishlist:item=739029152&perks=64866129,1720528630
+
+
+// D.F.A. - 死从天降 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=739029153&perks=64866129,984655331
+dimwishlist:item=739029153&perks=64866129,1370847713
+
+
+// Lotus-Eater - 食莲者 (pve)
+//notes: tags:pve
+dimwishlist:item=837298567&perks=2541826827,1926441324
+dimwishlist:item=837298567&perks=461595545,1926441324
+dimwishlist:item=837298567&perks=1767911158,1926441324
+
+
+// Adored - 崇拜 (pvp)
+//notes: tags:pvp
+dimwishlist:item=891765152&perks=4116820839,2717805783
+dimwishlist:item=891765152&perks=4116820839,1370847713
+
+
+// Adored - 崇拜 (pve)
+//notes: tags:pve
+dimwishlist:item=891765152&perks=848860060,496047945
+
+
+// Lotus-Eater - 食莲者 (pve)
+//notes: tags:pve
+dimwishlist:item=924095500&perks=2541826827,1926441324
+dimwishlist:item=924095500&perks=461595545,1926441324
+dimwishlist:item=924095500&perks=1767911158,1926441324
+
+
+// Adored - 崇拜 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1405095983&perks=4116820839,2717805783
+dimwishlist:item=1405095983&perks=4116820839,1370847713
+
+
+// Adored - 崇拜 (pve)
+//notes: tags:pve
+dimwishlist:item=1405095983&perks=848860060,496047945
+
+
+// Salvager's Salvo - 拯救者的喝彩 (pve)
+//notes: tags:pve
+dimwishlist:item=1692109318&perks=409713597,511499160,4065965131
+
+
+// The Hothead - 热血上头 (pve)
+//notes: tags:pve
+dimwishlist:item=1692372662&perks=461595545,2275087323
+dimwishlist:item=1692372662&perks=461595545,2282937672
+dimwishlist:item=1692372662&perks=461595545,3744057135
+
+
+// The Hothead - 热血上头 ()
+dimwishlist:item=1692372662&perks=2817499044,3744057135
+
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=1715391576&perks=1563455254,3744057135
+dimwishlist:item=1715391576&perks=1563455254,496047945
+
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=1715391576&perks=2817499044,3744057135
+
+
+// Null Composure - 零镇静 (pve)
+//notes: tags:pve
+dimwishlist:item=2150643740&perks=461595545,254337357
+dimwishlist:item=2150643740&perks=461595545,2037312142
+
+
+// Ouster Engine - 驱逐引擎 (pve)
+//notes: tags:pve
+dimwishlist:item=2223968549&perks=3528046508,1817983009
+
+
+// Salvager's Salvo - 拯救者的喝彩 (pve)
+//notes: tags:pve
+dimwishlist:item=2461640837&perks=409713597,511499160,4065965131
+
+
+// The Slammer - 急锋 (pve)
+//notes: tags:pve
+dimwishlist:item=2466028274&perks=1618208178,405677814
+
+
+// D.F.A. - 死从天降 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2920548486&perks=64866129,984655331
+dimwishlist:item=2920548486&perks=64866129,1370847713
+
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=3285784871&perks=1563455254,3744057135
+dimwishlist:item=3285784871&perks=1563455254,496047945
+
+
+// Mint Retrograde - 完美逆行 (pve)
+//notes: tags:pve
+dimwishlist:item=3285784871&perks=2817499044,3744057135
+
+
+// The Palindrome - 回文 (pve)
+//notes: tags:pve
+dimwishlist:item=3303271523&perks=64866129,2633604463
+dimwishlist:item=3303271523&perks=64866129,3042219245
+dimwishlist:item=3303271523&perks=64866129,1720528630
+
+
+// Null Composure - 零镇静 (pve)
+//notes: tags:pve
+dimwishlist:item=3613444087&perks=461595545,254337357
+dimwishlist:item=3613444087&perks=461595545,2037312142
+
+
+// Ouster Engine - 驱逐引擎 (pve)
+//notes: tags:pve
+dimwishlist:item=3718184802&perks=3528046508,1817983009
+
+
+// The Hothead - 热血上头 (pve)
+//notes: tags:pve
+dimwishlist:item=3960301269&perks=461595545,2275087323
+dimwishlist:item=3960301269&perks=461595545,2282937672
+dimwishlist:item=3960301269&perks=461595545,3744057135
+
+
+// The Hothead - 热血上头 (pve)
+//notes: tags:pve
+dimwishlist:item=3960301269&perks=2817499044,3744057135
+
+
