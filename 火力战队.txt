@@ -11,6 +11,16 @@ dimwishlist:item=34731066&perks=1347741687,102912326
 // Service Revolver - 忠侍左轮 (pvp)
 //notes: tags:pvp
 dimwishlist:item=59060498&perks=2938480696,2260261934
+dimwishlist:item=59060498&perks=509594246,2260261934
+dimwishlist:item=59060498&perks=1347741687,2260261934
+
+
+// Service Revolver - 忠侍左轮 (pve)
+//notes: tags:pve
+dimwishlist:item=59060498&perks=2938480696,288411554
+dimwishlist:item=59060498&perks=2938480696,1549370717
+dimwishlist:item=59060498&perks=1347741687,288411554
+dimwishlist:item=59060498&perks=1347741687,1549370717
 
 
 // Prolonged Engagement - 加时交锋 (pve,pvp)
@@ -163,6 +173,16 @@ dimwishlist:item=3667861447&perks=1767911158,1926441324
 // Service Revolver - 忠侍左轮 (pvp)
 //notes: tags:pvp
 dimwishlist:item=3796682229&perks=2938480696,2260261934
+dimwishlist:item=3796682229&perks=509594246,2260261934
+dimwishlist:item=3796682229&perks=1347741687,2260261934
+
+
+// Service Revolver - 忠侍左轮 (pve)
+//notes: tags:pve
+dimwishlist:item=3796682229&perks=2938480696,288411554
+dimwishlist:item=3796682229&perks=2938480696,1549370717
+dimwishlist:item=3796682229&perks=1347741687,288411554
+dimwishlist:item=3796682229&perks=1347741687,1549370717
 
 
 // Main Ingredient - 主原料 (pvp)
