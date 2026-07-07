@@ -1,0 +1,173 @@
+title:火力战队
+description:召集反曲弓，下班时刻，加时交锋，暗夜魅影，无名午夜，注视焦点，忠侍左轮，主原料，光明前景，极光破晓
+
+// Nightshade - 暗夜魅影 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=34731066&perks=1347741687,4045335048
+dimwishlist:item=34731066&perks=1347741687,2923251173
+dimwishlist:item=34731066&perks=1347741687,102912326
+
+
+// Service Revolver - 忠侍左轮 (pvp)
+//notes: tags:pvp
+dimwishlist:item=59060498&perks=2938480696,2260261934
+
+
+// Prolonged Engagement - 加时交锋 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=1066772626&perks=1347741687,1171887445
+dimwishlist:item=1066772626&perks=4245865861,1171887445
+
+
+// Punching Out - 下班时刻 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1409524486&perks=2682205016,2923251173
+dimwishlist:item=1409524486&perks=2682205016,1171147302
+
+
+// Punching Out - 下班时刻 (pve)
+//notes: tags:pve
+dimwishlist:item=1409524486&perks=4245865861,2923251173
+
+
+// Punching Out - 下班时刻 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1469372193&perks=2682205016,2923251173
+dimwishlist:item=1469372193&perks=2682205016,1171147302
+
+
+// Punching Out - 下班时刻 (pve)
+//notes: tags:pve
+dimwishlist:item=1469372193&perks=4245865861,2923251173
+
+
+// Aurora Dawn - 极光破晓 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=1479562935&perks=855168139,405677814
+dimwishlist:item=1479562935&perks=820036316,405677814
+dimwishlist:item=1479562935&perks=2617553311,405677814
+
+
+// Nightshade - 暗夜魅影 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=1559068369&perks=1347741687,4045335048
+dimwishlist:item=1559068369&perks=1347741687,2923251173
+dimwishlist:item=1559068369&perks=1347741687,102912326
+
+
+// Positive Outlook - 光明前景 (pve)
+//notes: tags:pve
+dimwishlist:item=1832481283&perks=2541826827,1926441324
+
+
+// Positive Outlook - 光明前景 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1832481283&perks=3060983774,2260261934
+dimwishlist:item=1832481283&perks=1748774930,2260261934
+
+
+// Nameless Midnight - 无名午夜 (pve)
+//notes: tags:pve
+dimwishlist:item=1957301533&perks=573122728,1549370717
+dimwishlist:item=1957301533&perks=1347741687,1549370717
+
+
+// Nameless Midnight - 无名午夜 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1957301533&perks=1748774930,4045335048
+
+
+// Aurora Dawn - 极光破晓 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2111625436&perks=855168139,405677814
+dimwishlist:item=2111625436&perks=820036316,405677814
+dimwishlist:item=2111625436&perks=2617553311,405677814
+
+
+// Convened Recurve - 召集反曲弓 (pve)
+//notes: tags:pve
+dimwishlist:item=2271714488&perks=617966211,1926441324
+dimwishlist:item=2271714488&perks=1767911158,1926441324
+dimwishlist:item=2271714488&perks=2541826827,1926441324
+
+
+// Cynosure - 注视焦点 (pve)
+//notes: tags:pve
+dimwishlist:item=2511482352&perks=461595545,2275087323
+dimwishlist:item=2511482352&perks=461595545,2282937672
+dimwishlist:item=2511482352&perks=461595545,3192447905
+dimwishlist:item=2511482352&perks=461595545,3744057135
+
+
+// Cynosure - 注视焦点 (pve)
+//notes: tags:pve
+dimwishlist:item=2511482352&perks=2817499044,2275087323
+dimwishlist:item=2511482352&perks=2817499044,3744057135
+
+
+// Prolonged Engagement - 加时交锋 (pvp,pve)
+//notes: tags:pvp,pve
+dimwishlist:item=2624561525&perks=1347741687,1171887445
+dimwishlist:item=2624561525&perks=4245865861,1171887445
+
+
+// Cynosure - 注视焦点 (pve)
+//notes: tags:pve
+dimwishlist:item=2827141087&perks=461595545,2275087323
+dimwishlist:item=2827141087&perks=461595545,2282937672
+dimwishlist:item=2827141087&perks=461595545,3192447905
+dimwishlist:item=2827141087&perks=461595545,3744057135
+
+
+// Cynosure - 注视焦点 (pve)
+//notes: tags:pve
+dimwishlist:item=2827141087&perks=2817499044,2275087323
+dimwishlist:item=2827141087&perks=2817499044,3744057135
+
+
+// Main Ingredient - 主原料 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2901221332&perks=3755250867,1523649716
+dimwishlist:item=2901221332&perks=3755250867,2002547233
+
+
+// Nameless Midnight - 无名午夜 (pve)
+//notes: tags:pve
+dimwishlist:item=3470514298&perks=573122728,1549370717
+dimwishlist:item=3470514298&perks=1347741687,1549370717
+
+
+// Nameless Midnight - 无名午夜 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3470514298&perks=1748774930,4045335048
+
+
+// Positive Outlook - 光明前景 (pve)
+//notes: tags:pve
+dimwishlist:item=3625635456&perks=2541826827,1926441324
+
+
+// Positive Outlook - 光明前景 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3625635456&perks=3060983774,2260261934
+dimwishlist:item=3625635456&perks=1748774930,2260261934
+
+
+// Convened Recurve - 召集反曲弓 (pve)
+//notes: tags:pve
+dimwishlist:item=3667861447&perks=617966211,1926441324
+dimwishlist:item=3667861447&perks=2541826827,1926441324
+dimwishlist:item=3667861447&perks=1767911158,1926441324
+
+
+// Service Revolver - 忠侍左轮 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3796682229&perks=2938480696,2260261934
+
+
+// Main Ingredient - 主原料 (pvp)
+//notes: tags:pvp
+dimwishlist:item=4046741099&perks=3755250867,1523649716
+dimwishlist:item=4046741099&perks=3755250867,2002547233
+
+

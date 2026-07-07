@@ -1,0 +1,199 @@
+title:竞技场
+description:嗡鸣铁锭，恶意尖牙，多多罗的凝视，绽放兰花，史赛克的老练，锤头，高炉，无感，轰鸣巨人，回火发电机
+
+// Blast Furnace - 高炉 (pve)
+//notes: tags:pve
+dimwishlist:item=52683113&perks=1549370717,1817983009
+dimwishlist:item=52683113&perks=1549370717,1183436451
+
+
+// Blast Furnace - 高炉 (pvp)
+//notes: tags:pvp
+dimwishlist:item=52683113&perks=1748774930,1183436451
+
+
+// Kindled Orchid - 绽放兰花 (pve)
+//notes: tags:pve
+dimwishlist:item=334964261&perks=2541826827,1926441324
+
+
+// Kindled Orchid - 绽放兰花 (pvp)
+//notes: tags:pvp
+dimwishlist:item=334964261&perks=2923251173,3042219245
+
+
+// Bellowing Giant - 轰鸣巨人 (pvp)
+//notes: tags:pvp
+dimwishlist:item=412265080&perks=406461158,2091001077
+
+
+// Bellowing Giant - 轰鸣巨人 (pve)
+//notes: tags:pve
+dimwishlist:item=412265080&perks=2682205016,2282937672
+dimwishlist:item=412265080&perks=2682205016,177189259
+
+
+// Hammerhead - 锤头 (pve)
+//notes: tags:pve
+dimwishlist:item=850999853&perks=1926441324,2896748467
+dimwishlist:item=850999853&perks=1926441324,956288240
+
+
+// Hammerhead - 锤头 (pve)
+//notes: tags:pve
+dimwishlist:item=850999853&perks=288411554,2896748467
+
+
+// The Spiteful Fang - 恶意尖牙 (pve)
+//notes: tags:pve
+dimwishlist:item=1094998581&perks=1171887445,1183436451
+dimwishlist:item=1094998581&perks=1171887445,2078520142
+
+
+// The Spiteful Fang - 恶意尖牙 (pve)
+//notes: tags:pve
+dimwishlist:item=1094998581&perks=3523746922,2662236651
+
+
+// No Feelings - 无感 (pve)
+//notes: tags:pve
+dimwishlist:item=1271275406&perks=1720528630,4196156997
+dimwishlist:item=1271275406&perks=2633604463,4196156997
+dimwishlist:item=1271275406&perks=1347741687,4196156997
+
+
+// No Feelings - 无感 (pve)
+//notes: tags:pve
+dimwishlist:item=1271275406&perks=1720528630,64866129
+dimwishlist:item=1271275406&perks=1720528630,4065965131
+
+
+// Hammerhead - 锤头 (pve)
+//notes: tags:pve
+dimwishlist:item=1346714574&perks=1926441324,2896748467
+dimwishlist:item=1346714574&perks=1926441324,956288240
+
+
+// Hammerhead - 锤头 (pve)
+//notes: tags:pve
+dimwishlist:item=1346714574&perks=288411554,2896748467
+
+
+// The Spiteful Fang - 恶意尖牙 (pve)
+//notes: tags:pve
+dimwishlist:item=1704597062&perks=1171887445,1183436451
+dimwishlist:item=1704597062&perks=1171887445,2078520142
+
+
+// The Spiteful Fang - 恶意尖牙 (pve)
+//notes: tags:pve
+dimwishlist:item=1704597062&perks=3523746922,2662236651
+
+
+// Bellowing Giant - 轰鸣巨人 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1889005379&perks=406461158,2091001077
+
+
+// Bellowing Giant - 轰鸣巨人 (pve)
+//notes: tags:pve
+dimwishlist:item=1889005379&perks=2682205016,2091001077
+dimwishlist:item=1889005379&perks=2682205016,177189259
+
+
+// Stryker's Sure-Hand - 史赛克的老练 (pve)
+//notes: tags:pve
+dimwishlist:item=2158575991&perks=2541826827,1926441324
+
+
+// Stryker's Sure-Hand - 史赛克的老练 (pve)
+//notes: tags:pve
+dimwishlist:item=2158575991&perks=4085959009,147913470
+
+
+// Tempered Dynamo - 回火发电机 (pve)
+//notes: tags:pve
+dimwishlist:item=2274706510&perks=1563455254,717070634
+dimwishlist:item=2274706510&perks=1563455254,288411554
+dimwishlist:item=2274706510&perks=2682205016,717070634
+dimwishlist:item=2274706510&perks=2682205016,288411554
+
+
+// Stryker's Sure-Hand - 史赛克的老练 (pve)
+//notes: tags:pve
+dimwishlist:item=2490460292&perks=2541826827,1926441324
+
+
+// Stryker's Sure-Hand - 史赛克的老练 (pve)
+//notes: tags:pve
+dimwishlist:item=2490460292&perks=4085959009,147913470
+
+
+// Tatara Gaze - 多多罗的凝视 (pve)
+//notes: tags:pve
+dimwishlist:item=2531614757&perks=1563455254,573122728
+dimwishlist:item=2531614757&perks=1563455254,496047945
+
+
+// Blast Furnace - 高炉 (pve)
+//notes: tags:pve
+dimwishlist:item=2631356658&perks=1549370717,1817983009
+dimwishlist:item=2631356658&perks=1549370717,1183436451
+
+
+// Blast Furnace - 高炉 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2631356658&perks=1748774930,1183436451
+
+
+// Tempered Dynamo - 回火发电机 (pve)
+//notes: tags:pve
+dimwishlist:item=2925315757&perks=1563455254,717070634
+dimwishlist:item=2925315757&perks=1563455254,288411554
+dimwishlist:item=2925315757&perks=2682205016,717070634
+dimwishlist:item=2925315757&perks=2682205016,288411554
+
+
+// No Feelings - 无感 (pve)
+//notes: tags:pve
+dimwishlist:item=2979764077&perks=2633604463,4196156997
+dimwishlist:item=2979764077&perks=1720528630,4196156997
+dimwishlist:item=2979764077&perks=1347741687,4196156997
+
+
+// No Feelings - 无感 (pve)
+//notes: tags:pve
+dimwishlist:item=2979764077&perks=1720528630,64866129
+dimwishlist:item=2979764077&perks=1720528630,4065965131
+
+
+// The Ringing Nail - 嗡鸣铁锭 (pve)
+//notes: tags:pve
+dimwishlist:item=3326135421&perks=2675184851,3581929919
+dimwishlist:item=3326135421&perks=2675184851,1183436451
+dimwishlist:item=3326135421&perks=2675184851,956288240
+
+
+// Tatara Gaze - 多多罗的凝视 (pve)
+//notes: tags:pve
+dimwishlist:item=3595694326&perks=1563455254,573122728
+dimwishlist:item=3595694326&perks=1563455254,496047945
+
+
+// Kindled Orchid - 绽放兰花 (pve)
+//notes: tags:pve
+dimwishlist:item=3961462214&perks=2541826827,1926441324
+
+
+// Kindled Orchid - 绽放兰花 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3961462214&perks=2923251173,3042219245
+
+
+// The Ringing Nail - 嗡鸣铁锭 (pve)
+//notes: tags:pve
+dimwishlist:item=4206550094&perks=2675184851,3581929919
+dimwishlist:item=4206550094&perks=2675184851,1183436451
+dimwishlist:item=4206550094&perks=2675184851,956288240
+
+

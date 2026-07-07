@@ -1,0 +1,107 @@
+title:单人行动
+description:指挥链，叛乱疾呼，公平审判，最后仪式，溪谷-X，绝对音高，骑士之火，权势，鲁莽致险，黄道卷线杆，恶咒，高亢
+
+// Veles-X - 溪谷-X (pve)
+//notes: tags:pve
+dimwishlist:item=438540299&perks=2541826827,1926441324
+
+
+// Cry Mutiny - 叛乱疾呼 (pve)
+//notes: tags:pve
+dimwishlist:item=768696858&perks=409713597,2675184851,3418165135
+dimwishlist:item=768696858&perks=409713597,2675184851,1161469972
+
+
+// Chivalric Fire - 骑士之火 (pve)
+//notes: tags:pve
+dimwishlist:item=938936806&perks=4085959009,1618208178
+dimwishlist:item=938936806&perks=4085959009,984655331
+
+
+// Chivalric Fire (pve)
+//notes: tags:pve
+dimwishlist:item=938936806&perks=2541826827,1926441324
+dimwishlist:item=938936806&perks=2541826827,1618208178
+
+
+// Malediction - 恶咒 (pvp,pve)
+//notes: tags:pvp,pve
+dimwishlist:item=979721268&perks=906981559,2748801589
+dimwishlist:item=979721268&perks=906981559,64866129
+dimwishlist:item=979721268&perks=1771736209,2748801589
+dimwishlist:item=979721268&perks=1771736209,64866129
+
+
+// Ascendancy - 权势 (pve)
+//notes: tags:pve
+dimwishlist:item=1713388226&perks=461595545,2275087323
+dimwishlist:item=1713388226&perks=461595545,2091001077
+dimwishlist:item=1713388226&perks=461595545,2282937672
+
+
+// Chain of Command - 指挥链 (pve)
+//notes: tags:pve
+dimwishlist:item=1716620044&perks=2422968039,1906147653
+dimwishlist:item=1716620044&perks=777774560,1906147653
+
+
+// Chain of Command - 指挥链 (pve)
+//notes: tags:pve
+dimwishlist:item=1716620044&perks=4245865861,2896748467
+
+
+// Ecliptic Distaff - 黄道卷线杆 (pve)
+//notes: tags:pve
+dimwishlist:item=1942143745&perks=1592669035,2241043034
+dimwishlist:item=1942143745&perks=1592669035,1926441324
+
+
+// Ecliptic Distaff - 黄道卷线杆 (pve)
+//notes: tags:pve
+dimwishlist:item=1942143745&perks=2541826827,1926441324
+
+
+// Perfect Pitch - 绝对音高 (pve)
+//notes: tags:pve
+dimwishlist:item=2191451996&perks=4223976499,2675184851
+dimwishlist:item=2191451996&perks=4245865861,2675184851
+
+
+// Reckless Endangerment - 鲁莽致险 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3085559077&perks=2014892510,1161469972
+dimwishlist:item=3085559077&perks=2014892510,4116820839
+
+
+// Resounding - 高亢 (pve)
+//notes: tags:pve
+dimwishlist:item=3273807888&perks=4245865861,102912326
+dimwishlist:item=3273807888&perks=3797647183,102912326
+
+
+// Resounding - 高亢 (pve)
+//notes: tags:pve
+dimwishlist:item=3273807888&perks=1008128453,254337357
+
+
+// Last Rite - 最后仪式 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3708636616&perks=3198323828,1370847713
+dimwishlist:item=3708636616&perks=3198323828,1183436451
+
+
+// Last Rite - 最后仪式 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=3708636616&perks=461595545,2402480669
+
+
+// Fair Judgment - 公平审判 (pve)
+//notes: tags:pve
+dimwishlist:item=4113452819&perks=2617553311,1171887445
+
+
+// Fair Judgment - 公平审判 (pvp)
+//notes: tags:pvp
+dimwishlist:item=4113452819&perks=3060983774,956288240
+
+

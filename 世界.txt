@@ -1,0 +1,113 @@
+title:世界
+description:钢羽中继器，完美悖论，繁文缛节，礼拜，夜神长存V，炫彩突袭，无尽之路8，诱惑之钩，日心QSC，棘蛇，黄铜攻击，格网队长，潮人，入境监控
+
+// Red Tape - 繁文缛节 (pve)
+//notes: tags:pve
+dimwishlist:item=736362511&perks=2617553311,1171887445
+
+
+// Steelfeather Repeater - 钢羽中继器 (pve)
+//notes: tags:pve
+dimwishlist:item=771811870&perks=402033656,781192741
+dimwishlist:item=771811870&perks=4245865861,781192741
+
+
+// Steelfeather Repeater - 钢羽中继器 (pve)
+//notes: tags:pve
+dimwishlist:item=771811870&perks=3914874605,2138673996
+
+
+// Chroma Rush - 炫彩突袭 (pve)
+//notes: tags:pve
+dimwishlist:item=771811871&perks=4245865861,1549370717
+dimwishlist:item=771811871&perks=4245865861,288411554
+dimwishlist:item=771811871&perks=4245865861,2939589096
+
+
+// Brass Attacks - 黄铜攻击 (pve)
+//notes: tags:pve
+dimwishlist:item=1291040554&perks=2541826827,1926441324
+
+
+// Heliocentric QSc - 日心QSC (pve)
+//notes: tags:pve
+dimwishlist:item=1291040555&perks=4223976499,2675184851
+dimwishlist:item=1291040555&perks=4223976499,2923251173
+
+
+// Death Adder - 棘蛇 (pve)
+//notes: tags:pve
+dimwishlist:item=2130249527&perks=4223976499,3581929919
+dimwishlist:item=2130249527&perks=4223976499,169755979
+
+
+// Nox Perennial V - 夜神长存V (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2366022261&perks=424370782,711234314
+dimwishlist:item=2366022261&perks=424370782,2037312142
+dimwishlist:item=2366022261&perks=1609056795,711234314
+dimwishlist:item=2366022261&perks=1609056795,2037312142
+
+
+// Inbound Surveillance - 入境监控 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2776506837&perks=1011551830,64866129
+dimwishlist:item=2776506837&perks=2840833776,64866129
+dimwishlist:item=2776506837&perks=2938480696,64866129
+
+
+// Trendsetter - 潮人 (pve)
+//notes: tags:pve
+dimwishlist:item=2863808104&perks=65604327,717070634
+dimwishlist:item=2863808104&perks=511499160,717070634
+
+
+// Infinite Paths 8 - 无尽之路8 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=3176697588&perks=169755979,1720528630
+
+
+// Infinite Paths 8 - 无尽之路8 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3176697588&perks=2717805783,1161469972
+
+
+// Gridskipper - 格网队长 (pve)
+//notes: tags:pve
+dimwishlist:item=3176697589&perks=2541826827,1926441324
+
+
+// Gridskipper - 格网队长 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3176697589&perks=4207509907,2570477205
+
+
+// Liturgy - 礼拜 (pve)
+//notes: tags:pve
+dimwishlist:item=3377522331&perks=745577913,2617553311,344235611
+dimwishlist:item=3377522331&perks=745577913,2817499044,344235611
+dimwishlist:item=3377522331&perks=745577913,3120212825,344235611
+dimwishlist:item=3377522331&perks=409713597,2617553311,344235611
+dimwishlist:item=3377522331&perks=409713597,2817499044,344235611
+dimwishlist:item=3377522331&perks=409713597,3120212825,344235611
+
+
+// Temptation's Hook - 诱惑之钩 (pve)
+//notes: tags:pve
+dimwishlist:item=3977827673&perks=4183521337,717070634
+dimwishlist:item=3977827673&perks=4085959009,717070634
+dimwishlist:item=3977827673&perks=984655331,717070634
+
+
+// Perfect Paradox - 完美悖论 (pve)
+//notes: tags:pve
+dimwishlist:item=4108648762&perks=536173722,788178929
+dimwishlist:item=4108648762&perks=494941759,788178929
+
+
+// Perfect Paradox - 完美悖论 (pve)
+//notes: tags:pve
+dimwishlist:item=4108648762&perks=494941759,2459015849
+dimwishlist:item=4108648762&perks=191144788,2459015849
+
+

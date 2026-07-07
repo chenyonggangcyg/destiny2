@@ -1,0 +1,93 @@
+title:智谋
+description:痛苦的饥饿，噤声，21%的亢奋，恶兆，信任，唯一幸存者，备用口粮，末日，最后生存者，紧急求生包，故人往事，巨蟒
+
+// Gnawing Hunger - 痛苦的饥饿 (pve)
+//notes: tags:pve
+dimwishlist:item=214545213&perks=2541826827,1926441324
+
+
+// Doomsday - 末日 (pve)
+//notes: tags:pve
+dimwishlist:item=713132408&perks=409713597,3528046508,1905598698
+
+
+// Doomsday - 末日 (pve)
+//notes: tags:pve
+dimwishlist:item=713132408&perks=409713597,2817499044,3744057135
+
+
+// Bygones - 故人往事 (pvp)
+//notes: tags:pvp
+dimwishlist:item=767170345&perks=3198323828,4045335048
+dimwishlist:item=767170345&perks=1748774930,4045335048
+
+
+// Bygones - 故人往事 (pve)
+//notes: tags:pve
+dimwishlist:item=767170345&perks=984655331,1549370717
+
+
+// Trust - 信任 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=810474118&perks=1183436451,2675184851
+dimwishlist:item=810474118&perks=1183436451,64866129
+dimwishlist:item=810474118&perks=2938480696,2675184851
+dimwishlist:item=810474118&perks=2938480696,64866129
+
+
+// Spare Rations - 备用口粮 (pvp)
+//notes: tags:pvp
+dimwishlist:item=810474119&perks=191144788,1370847713
+
+
+// Bad Omens - 恶兆 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1996201272&perks=406461158,2091001077
+
+
+// Bad Omens - 恶兆 (pve)
+//notes: tags:pve
+dimwishlist:item=1996201272&perks=3528046508,2091001077
+
+
+// Sole Survivor - 唯一幸存者 (pve)
+//notes: tags:pve
+dimwishlist:item=2920648677&perks=4116820839,1720528630
+dimwishlist:item=2920648677&perks=2938480696,1720528630
+
+
+// 21% Delirium - 21%的亢奋 (pve)
+//notes: tags:pve
+dimwishlist:item=3001598094&perks=461595545,2896748467
+dimwishlist:item=3001598094&perks=2682205016,2896748467
+
+
+// Bug-Out Bag - 紧急求生包 (pve)
+//notes: tags:pve
+dimwishlist:item=3327901954&perks=2541826827,1926441324
+
+
+// Hush - 噤声 (pve)
+//notes: tags:pve
+dimwishlist:item=3638723317&perks=3523746922,2675184851
+dimwishlist:item=3638723317&perks=3523746922,2662236651
+
+
+// Python - 巨蟒 (pvp)
+//notes: tags:pvp
+dimwishlist:item=4276696962&perks=494941759,1370847713
+dimwishlist:item=4276696962&perks=191144788,1370847713
+
+
+// Python (pve)
+//notes: tags:pve
+dimwishlist:item=4276696962&perks=494941759,788178929
+dimwishlist:item=4276696962&perks=191144788,788178929
+dimwishlist:item=4276696962&perks=2682205016,788178929
+
+
+// Last Man Standing - 最后生存者 (pvp)
+//notes: tags:pvp
+dimwishlist:item=4276696963&perks=1370847713,788178929
+
+

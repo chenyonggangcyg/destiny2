@@ -1,0 +1,225 @@
+title:熔炉竞技场
+description:舵手，乔科斯的长剑，魔鬼中的天使，无尽风暴，兰迪飞刃，秋风，越界，忧伤韵文，幸存者碑文，恸哭，冰冻轨道，束缚化身V
+
+// Frozen Orbit - 冰冻轨道 (pvp)
+//notes: tags:pvp
+dimwishlist:item=232119851&perks=2717805783,4116820839
+dimwishlist:item=232119851&perks=2717805783,1370847713
+
+
+// Frozen Orbit - 冰冻轨道 (pve)
+//notes: tags:pve
+dimwishlist:item=232119851&perks=573122728,3418165135
+dimwishlist:item=232119851&perks=573122728,4116820839
+
+
+// Qua Vinctus IV - 束缚化身IV (pve)
+//notes: tags:pve
+dimwishlist:item=337893613&perks=3422375969,2896748467
+dimwishlist:item=337893613&perks=3422375969,1563455254
+dimwishlist:item=337893613&perks=3422796781,2896748467
+dimwishlist:item=337893613&perks=3422796781,1563455254
+dimwishlist:item=337893613&perks=102912326,2896748467
+dimwishlist:item=337893613&perks=102912326,1563455254
+
+
+// Unending Tempest - 无尽风暴 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=673621062&perks=1906147653,1171887445
+
+
+// Unending Tempest - 无尽风暴 (pvp)
+//notes: tags:pvp
+dimwishlist:item=673621062&perks=3060983774,2939589096
+
+
+// Sorrow's Verse - 忧伤韵文 (pvp)
+//notes: tags:pvp
+dimwishlist:item=775830132&perks=1523649716,288411554
+dimwishlist:item=775830132&perks=1523649716,2570477205
+dimwishlist:item=775830132&perks=1748774930,288411554
+dimwishlist:item=775830132&perks=1748774930,2570477205
+dimwishlist:item=775830132&perks=3060983774,288411554
+dimwishlist:item=775830132&perks=3060983774,2570477205
+
+
+// Frozen Orbit - 冰冻轨道 (pvp)
+//notes: tags:pvp
+dimwishlist:item=1516542120&perks=2717805783,4116820839
+dimwishlist:item=1516542120&perks=2717805783,1370847713
+
+
+// Frozen Orbit - 冰冻轨道 (pve)
+//notes: tags:pve
+dimwishlist:item=1516542120&perks=573122728,3418165135
+dimwishlist:item=1516542120&perks=573122728,4116820839
+
+
+// Better Devils - 魔鬼中的天使 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2106353446&perks=509594246,1370847713
+dimwishlist:item=2106353446&perks=2717805783,1370847713
+dimwishlist:item=2106353446&perks=191144788,1370847713
+
+
+// Joxer's Longsword - 乔科斯的长剑 (pve)
+//notes: tags:pve
+dimwishlist:item=2150012406&perks=1906147653,2422968039
+
+
+// Joxer's Longsword - 乔科斯的长剑 (pve)
+//notes: tags:pve
+dimwishlist:item=2150012406&perks=2541826827,1926441324
+
+
+// Autumn Wind - 秋风 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2150012407&perks=509594246,4045335048
+dimwishlist:item=2150012407&perks=4207509907,4045335048
+
+
+// Survivor's Epitaph - 幸存者碑文 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2152350211&perks=2938480696,2923251173
+dimwishlist:item=2152350211&perks=2938480696,2570477205
+dimwishlist:item=2152350211&perks=1171147302,2923251173
+dimwishlist:item=2152350211&perks=1171147302,2570477205
+
+
+// The Helmsman - 舵手 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2325078119&perks=3974407819,23371658
+dimwishlist:item=2325078119&perks=3974407819,4065965131
+
+
+// The Helmsman - 舵手 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2325078119&perks=4116820839,1370847713
+
+
+// Autumn Wind - 秋风 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2459087496&perks=509594246,4045335048
+dimwishlist:item=2459087496&perks=4207509907,4045335048
+
+
+// Sorrow's Verse - 忧伤韵文 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2557966895&perks=1523649716,288411554
+dimwishlist:item=2557966895&perks=1523649716,2570477205
+dimwishlist:item=2557966895&perks=1748774930,288411554
+dimwishlist:item=2557966895&perks=1748774930,2570477205
+dimwishlist:item=2557966895&perks=3060983774,288411554
+dimwishlist:item=2557966895&perks=3060983774,2570477205
+
+
+// Out of Bounds - 越界 (pve)
+//notes: tags:pve
+dimwishlist:item=2579239008&perks=1720528630,717070634
+
+
+// Out of Bounds - 越界 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2579239008&perks=3060983774,2923251173
+
+
+// Unending Tempest - 无尽风暴 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2579239009&perks=1906147653,1171887445
+
+
+// Unending Tempest - 无尽风暴 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2579239009&perks=3060983774,2939589096
+
+
+// The Keening - 恸哭 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2839128618&perks=2938480696,3418165135
+dimwishlist:item=2839128618&perks=2938480696,4116820839
+
+
+// The Keening - 恸哭 (pve)
+//notes: tags:pve
+dimwishlist:item=2839128618&perks=1720528630,717070634
+
+
+// Out of Bounds - 越界 (pve)
+//notes: tags:pve
+dimwishlist:item=3021407779&perks=1720528630,717070634
+
+
+// Out of Bounds - 越界 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3021407779&perks=3060983774,2923251173
+
+
+// The Helmsman - 舵手 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3215649176&perks=3974407819,23371658
+dimwishlist:item=3215649176&perks=3974407819,4065965131
+
+
+// The Helmsman - 舵手 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3215649176&perks=4116820839,1370847713
+
+
+// Joxer's Longsword - 乔科斯的长剑 (pve)
+//notes: tags:pve
+dimwishlist:item=3538003989&perks=1906147653,2422968039
+
+
+// Joxer's Longsword - 乔科斯的长剑 (pve)
+//notes: tags:pve
+dimwishlist:item=3538003989&perks=2541826827,1926441324
+
+
+// The Keening - 恸哭 (pvp)
+//notes: tags:pvp
+dimwishlist:item=3902351469&perks=2938480696,3418165135
+dimwishlist:item=3902351469&perks=2938480696,4116820839
+
+
+// The Keening - 恸哭 (pve)
+//notes: tags:pve
+dimwishlist:item=3902351469&perks=1720528630,717070634
+
+
+// Randy's Throwing Knife - 兰迪飞刃 (pvp,pve)
+//notes: tags:pvp,pve
+dimwishlist:item=3975115486&perks=2938480696,2923251173
+dimwishlist:item=3975115486&perks=1748774930,2923251173
+
+
+// Survivor's Epitaph - 幸存者碑文 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=4059111040&perks=2938480696,2923251173
+dimwishlist:item=4059111040&perks=2938480696,2570477205
+dimwishlist:item=4059111040&perks=1171147302,2923251173
+dimwishlist:item=4059111040&perks=1171147302,2570477205
+
+
+// Better Devils - 魔鬼中的天使 (pvp)
+//notes: tags:pvp
+dimwishlist:item=4059111041&perks=509594246,1370847713
+dimwishlist:item=4059111041&perks=2717805783,1370847713
+dimwishlist:item=4059111041&perks=191144788,1370847713
+
+
+// Qua Vinctus IV - 束缚化身IV (pve)
+//notes: tags:pve
+dimwishlist:item=4176551594&perks=3422375969,2896748467
+dimwishlist:item=4176551594&perks=3422375969,1563455254
+dimwishlist:item=4176551594&perks=3422796781,2896748467
+dimwishlist:item=4176551594&perks=3422796781,1563455254
+dimwishlist:item=4176551594&perks=102912326,2896748467
+dimwishlist:item=4176551594&perks=102912326,1563455254
+
+
+// Randy's Throwing Knife - 兰迪飞刃 (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=4176824345&perks=2938480696,2923251173
+dimwishlist:item=4176824345&perks=1748774930,2923251173
+
+
